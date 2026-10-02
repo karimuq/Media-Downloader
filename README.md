@@ -7,7 +7,7 @@
 A universal media downloading utility built for personal archiving, educational research, and offline accessibility.
 
 
-<img width="848" height="373" alt="Sprite-0001" src="https://github.com/user-attachments/assets/dba0d073-a19f-4a85-a774-bea2e32ae094" />
+<img width="748" height="373" alt="Sprite-0001" src="https://github.com/user-attachments/assets/dba0d073-a19f-4a85-a774-bea2e32ae094" />
 
 
 ## How to Use
