@@ -7,9 +7,6 @@
 A universal media downloading utility built for personal archiving, educational research, and offline accessibility.
 
 
-<img width="748" height="373" alt="Sprite-0001" src="https://github.com/user-attachments/assets/dba0d073-a19f-4a85-a774-bea2e32ae094" />
-
-
 ## How to Use
 
 1. **Download the App:** Go to the [Releases](../../releases) page and download the latest `.exe` installer.
