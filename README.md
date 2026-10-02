@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Logo.png" alt="Media Downloader Logo" width="128" />
+</div>
+
 # Media Downloader
 
 A universal media downloading utility built for personal archiving, educational research, and offline accessibility.
